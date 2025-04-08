@@ -1,3 +1,23 @@
+# A space for exceptions has been added at the end of the file
+# Please avoid removing existing rules to prevent data breaches
+
+# Exclude data containing directories
+/data/*
+/output/*
+
+# Exclude data file types
+*.doc*
+*.xls*
+*.csv
+*.pdf
+*ipynb*
+*.html
+*.pptx
+*.png
+*.jp*g
+
+#### Below is the default python .gitignore created by GitHub ###
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +192,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#Exceptions
+## Extreme caution should be used when adding exceptions to the .gitignore
+## If you are unsure contact another member of the team
+##
+## Exceptions can be added using the ! character before the rule
+## For example:
+## !/docs/pics/*
+## Will add an exception to all files in the named directory.
+## This is even if they violate other rules in the .gitignore
+## Exceptions should be added after any rule they violate in the .gitignore
