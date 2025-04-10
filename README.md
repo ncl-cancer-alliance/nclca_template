@@ -37,3 +37,9 @@ The Scripting Onboarding documentation is available here: [Scripting Onboarding]
 - Initial release of the project template
 
 *The contents and structure of this template were largely based on the template used by the NCL ICB Analytics team available here: [NCL ICB Project Template](https://github.com/ncl-icb-analytics/ncl_project)*
+
+## Licence
+This repository is dual licensed under the [Open Government v3]([https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) & MIT. All code can outputs are subject to Crown Copyright.
+
+## Contact
+Jake Kealey - jake.kealey@nhs.net
