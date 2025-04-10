@@ -33,4 +33,7 @@ sqlalchemy==2.0.40
 beautifulsoup4==4.13.3
 requests==2.32.3
 
+# Environment variables
+python-dotenv==1.1.0
+
 # Dependencies
