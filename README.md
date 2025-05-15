@@ -36,6 +36,12 @@ The Scripting Onboarding documentation is available here: [Scripting Onboarding]
 #### Added
 - Initial release of the project template
 
+### [1.1.0] - 2025-05-15
+#### Added
+- Added sample.env file to the template
+#### Modified
+- Added toml to requirements.txt file
+
 *The contents and structure of this template were largely based on the template used by the NCL ICB Analytics team available here: [NCL ICB Project Template](https://github.com/ncl-icb-analytics/ncl_project)*
 
 ## Licence
