@@ -42,6 +42,10 @@ The Scripting Onboarding documentation is available here: [Scripting Onboarding]
 #### Modified
 - Added toml to requirements.txt file
 
+### [1.2.0] - 2025-07-17
+#### Added
+- Updated requirements.txt to better support snowflake packages
+
 *The contents and structure of this template were largely based on the template used by the NCL ICB Analytics team available here: [NCL ICB Project Template](https://github.com/ncl-icb-analytics/ncl_project)*
 
 ## Licence
