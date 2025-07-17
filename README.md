@@ -46,6 +46,10 @@ The Internal Scripting Guide is available here: [Internal Scripting Guide](https
 #### Modified
 - References to the NCL ICB scripting documentation have been replaced with the internal documentation.
 
+### [1.2.0] - 2025-07-17
+#### Added
+- Updated requirements.txt to better support snowflake packages
+
 *The contents and structure of this template were largely based on the template used by the NCL ICB Analytics team available here: [NCL ICB Project Template](https://github.com/ncl-icb-analytics/ncl_project)*
 
 ## Licence
