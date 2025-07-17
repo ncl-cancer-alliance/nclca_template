@@ -26,9 +26,9 @@ This repository is dual licensed under the [Open Government v3]([https://www.nat
 
 ## Scripting Guidance
 
-Please refer to the NCL ICB Analytics Team Scripting Onboarding documentation for instructions on setting up coding projects including virtual environments (venv).
+Please refer to the Internal Scripting Guide documentation for instructions on setting up coding projects including virtual environments (venv).
 
-The Scripting Onboarding documentation is available here: [Scripting Onboarding](https://nhs.sharepoint.com/:f:/r/sites/msteams_3c6e53/Shared%20Documents/Data%20Science?csf=1&web=1&e=ArWnMM)
+The Internal Scripting Guide is available here: [Internal Scripting Guide](https://nhs.sharepoint.com/:w:/r/sites/msteams_38dd8f/Shared%20Documents/Document%20Library/Documents/Git%20Integration/Internal%20Scripting%20Guide.docx?d=wc124f806fcd8401b8d8e051ce9daab87&csf=1&web=1&e=qt05xI)
 
 ## Changelog
 
@@ -41,6 +41,10 @@ The Scripting Onboarding documentation is available here: [Scripting Onboarding]
 - Added sample.env file to the template
 #### Modified
 - Added toml to requirements.txt file
+
+### [1.1.1] - 2025-05-28
+#### Modified
+- References to the NCL ICB scripting documentation have been replaced with the internal documentation.
 
 ### [1.2.0] - 2025-07-17
 #### Added
